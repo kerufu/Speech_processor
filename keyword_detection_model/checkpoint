@@ -1,0 +1,2 @@
+model_checkpoint_path: "keyword_detection"
+all_model_checkpoint_paths: "keyword_detection"
